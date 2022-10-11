@@ -19,6 +19,8 @@ Create the following pages using HTML CSS
     Email and
     password
 
-If the user uses the correct format for email and password, the user should be navigated to the success page.Below is the screenshot of how it came out to be.
-![image](https://user-images.githubusercontent.com/110998653/195168537-e164c664-ef06-4eba-a382-2ec3e62a9544.png)
+If the user uses the correct format for email and password, the user should be navigated to the success page.
+Below is the screenshot of how it came out to be.
 
+
+![image](https://user-images.githubusercontent.com/110998653/195168537-e164c664-ef06-4eba-a382-2ec3e62a9544.png)
