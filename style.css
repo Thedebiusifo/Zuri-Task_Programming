@@ -45,6 +45,7 @@ input[type="text"], [type="email"], [type="tel"], [type="password"], [type="pwd"
 input[type="date"]{
 width:160px;
 height:34px;
+border-style: hidden;
 border-radius:1px;
 background-color: mediumslateblue;
 color: aliceblue;
@@ -53,6 +54,7 @@ padding:2px;
 }
 input[type="color"]{
 height:18px;
+border-style: hidden;
 border-radius: 1px;
 background-color: mediumslateblue;
 outline:1px solid purple;
@@ -66,6 +68,7 @@ input[type="text"]:focus,
 select{
   width:250px;
   height:2em;
+  border-style: hidden;
   border-radius:1px ;
   outline: 1px solid purple;
   background-color:mediumslateblue ;
