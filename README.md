@@ -1,4 +1,4 @@
-Today zuri gave a task project goes like this;
+Today I4G in collaboration with Zuri Training gave a task project which goes exactly like this;
 Create the following pages using HTML CSS
     Registration page
     Login page
